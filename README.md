@@ -7,7 +7,7 @@
     - Instalar Apache JMeter:
         winget install Apache.JMeter
 
-Alternativa manual:
+    Alternativa manual:
     - Descargar ZIP binario de JMeter 5.6.x y descomprimir en C:\Tools\jmeter
     - Agregar C:\Tools\jmeter\apache-jmeter-5.6.x\bin al PATH
     - Configurar JAVA_HOME apuntando al JDK (p.ej. C:\Program Files\Eclipse Adoptium\jdk-17)
